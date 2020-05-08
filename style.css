@@ -1,0 +1,106 @@
+body{
+  font-size: 15px;
+  font-family: 'Poppins', sans-serif;
+}
+h1{
+  color: grey;
+  color: hsl(234, 12%, 34%);
+}
+h2{
+  color: grey;
+  color: hsl(234, 12%, 34%);
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  margin-bottom: 0;
+}
+h3{
+  color: grey;
+  color: hsl(234, 12%, 34%);
+}
+p{
+  color: grey;
+  color: hsl(229, 6%, 66%);
+  line-height: 2;
+}
+.title{
+  margin: 70px auto 2px;
+  font-weight: 200;
+}
+.bold-title{
+  margin: 2px auto;
+}
+.par-main{
+  width: 35%;
+  margin: 20px auto 60px;
+}
+.top-container{
+  text-align: center;
+}
+.middle-container{
+  display: flex;
+  width: 90%;
+  margin: auto auto;
+}
+.left{
+margin: auto auto;
+width: 30%;
+}
+.middle{
+margin: auto auto;
+width: 30%;
+}
+.right{
+margin: auto auto;
+width: 30%;
+}
+.Supervisor{
+  height: 250px;
+  width: 100%;
+  border-top: 5px inset teal;
+  border-top: 5px inset hsl(180, 62%, 55%);
+  border-radius: 4%;
+  box-shadow: 0 4px 10px 4px rgba(0, 0, 0, 0.2);
+  position: relative;
+}
+.Team-Builder{
+  height: 250px;
+  width: 100%;
+  border-top: 5px inset red;
+  border-top: 5px inset hsl(0, 78%, 62%);
+  border-radius: 4%;
+  box-shadow: 0 4px 10px 4px rgba(0, 0, 0, 0.2);
+  position: relative;
+}
+.Karma{
+  height: 250px;
+  width: 100%;
+  border-top: 5px inset yellow;
+  border-top: 5px inset hsl(34, 97%, 64%);
+  border-radius: 4%;
+  box-shadow: 0 4px 10px 4px rgba(0, 0, 0, 0.2);
+  position: relative;
+  margin-top: 3rem;
+}
+.Calculator{
+  height: 250px;
+  border-top: 5px inset blue;
+  border-top: 5px inset hsl(212, 86%, 64%);
+  border-radius: 4%;
+  box-shadow: 0 4px 10px 4px rgba(0, 0, 0, 0.2);
+  position: relative;
+}
+.par-box{
+  margin: 0;
+  padding: 0 1rem 0 1rem;
+}
+.icon{
+  position: absolute;
+  right: 2em;
+  bottom: 2em;
+}
+.attribution {
+  font-size: 11px; text-align: center;
+}
+.attribution a {
+  color: blue;
+  color: hsl(228, 45%, 44%);
+}
